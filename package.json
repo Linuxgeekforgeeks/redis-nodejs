@@ -1,0 +1,13 @@
+{
+  "name": "redis-nodejs",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "Dev":"nodemon run ./scr/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
